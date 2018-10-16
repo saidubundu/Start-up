@@ -1,0 +1,11 @@
+{
+  "name": "start-up",
+  "version": "1.0.0",
+  "description": "Reposive Start up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saidu Bundu-Kamara",
+  "license": "MIT"
+}
